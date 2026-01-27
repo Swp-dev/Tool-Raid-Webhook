@@ -1,7 +1,7 @@
 {
-  "token": "", //token bot
-  "guildId": "", //id server
-  "webhookName": "", //your bot name
+  "token": "",
+  "guildId": "",
+  "webhookName": "", 
   "desiredPerChannel": 2, 
   "scanEveryMs": 1000,
   "sendDelayMin": 300,
