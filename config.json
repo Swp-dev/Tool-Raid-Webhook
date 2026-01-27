@@ -1,6 +1,6 @@
 {
   "token": "", //token bot
-  "guildId": "1447108519223361578", //id server
+  "guildId": "", //id server
   "webhookName": "", //your bot name
   "desiredPerChannel": 2, 
   "scanEveryMs": 1000,
