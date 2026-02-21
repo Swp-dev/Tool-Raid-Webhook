@@ -1,5 +1,5 @@
 DISCORD WEBHOOK RAID TOOL
----
+Tool Raid Webhook is a tool that uses webhooks to spam channels across a server (using a Discord bot). It has the ability to bypass rate limits, still running even if the bot crashes
 
 ### Step 1:
 Open your Terminal (CMD or PowerShell) in the project directory and run:
