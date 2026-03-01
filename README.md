@@ -16,7 +16,8 @@ Run the main script with the following comman
 ```
 node index.js
 ```
-
+---
+⭐ | If this repository gets 10 stars, I will update the bypass rate limit v2 and include Nuke Server Discord.
 ---
 a few other Discord tools
 - [Discord Token Checker](https://github.com/Swp-dev/Token-Checker-Discord).
