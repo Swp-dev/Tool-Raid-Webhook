@@ -23,3 +23,25 @@ node index.js
 a few other Discord tools
 - [Discord Token Checker](https://github.com/Swp-dev/Token-Checker-Discord).
 - [Discord Voice Joiner](https://github.com/Swp-dev/Join-Voice-Discord).
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://discord.com/users/1234144932176855040">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@niemtinthatxaxi">
+<img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Swp-dev">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://nhavua.vercel.app">
+<img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
