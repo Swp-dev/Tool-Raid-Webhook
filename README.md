@@ -1,4 +1,4 @@
-![GitHub Downloads](https://img.shields.io/github/downloads/Swp-dev/Tool-Raid-Webhook/total)
+![Downloads](https://img.shields.io/github/downloads/Swp-dev/Tool-Raid-Webhook/total)
 ![Stars](https://img.shields.io/github/stars/Swp-dev/Tool-Raid-Webhook)
 ![Forks](https://img.shields.io/github/forks/Swp-dev/Tool-Raid-Webhook)
 ![Issues](https://img.shields.io/github/issues/Swp-dev/Tool-Raid-Webhook)
