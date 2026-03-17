@@ -1,3 +1,8 @@
+![GitHub Downloads](https://img.shields.io/github/downloads/Swp-dev/Tool-Raid-Webhook/total)
+![Stars](https://img.shields.io/github/stars/Swp-dev/Tool-Raid-Webhook)
+![Forks](https://img.shields.io/github/forks/Swp-dev/Tool-Raid-Webhook)
+![Issues](https://img.shields.io/github/issues/Swp-dev/Tool-Raid-Webhook)
+
 DISCORD WEBHOOK RAID TOOL
 Tool Raid Webhook is a tool that uses webhooks to spam channels across a server (using a Discord bot). It has the ability to bypass rate limits, still running even if the bot crashes
 
